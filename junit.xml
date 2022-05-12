@@ -1,0 +1,27 @@
+<testsuites>
+  <errors>0</errors>
+  <failures>0</failures>
+  <tests>3</tests>
+  <testsuite>
+    <name>defaults</name>
+    <tests>3</tests>
+    <skipped>3</skipped>
+    <errors>0</errors>
+    <failures>0</failures>
+    <testcase>
+      <name>check_component</name>
+      <classname>tested_component</classname>
+      <skipped></skipped>
+    </testcase>
+    <testcase>
+      <name>output_success</name>
+      <classname>tested_component</classname>
+      <skipped></skipped>
+    </testcase>
+    <testcase>
+      <name>should_fail</name>
+      <classname>tested_component</classname>
+      <skipped></skipped>
+    </testcase>
+  </testsuite>
+</testsuites>
